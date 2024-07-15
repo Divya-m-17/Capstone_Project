@@ -1,0 +1,8 @@
+Flask = 3.0.3
+Flask-Cors = 4.0.0
+joblib = 1.1.1
+NumPy = 1.26.1
+pandas = 2.2.2
+python-dateutil = 3.11.5
+scikit-learn = 1.2.2
+Scipy = 1.13.1
